@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dan.muller141@gmail.com
+	name = Daniel Muller
